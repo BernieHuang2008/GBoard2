@@ -1,0 +1,3 @@
+[submodule "PlaneGCS"]
+	path = include/PlaneGCS
+	url = https://github.com/CadQuery/PlaneGCS
